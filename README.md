@@ -1,3 +1,6 @@
+<img src="https://github.com/Igniter-909/Igniter-909/raw/main/banner.gif" alt="demo"/>
+
+
 <h1 align="center">Hi 👋, I'm Roshan Kumar Sahu</h1>
 <h3 align="center">Bridging Complex Analytics with Seamless User Experience</h3>
 
